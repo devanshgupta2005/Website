@@ -30,9 +30,9 @@
 
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devanshgupta2005&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta2005&layout=compact&theme=tokyonight" height="170"/> </p>
 🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=devanshgupta2005&theme=tokyonight&hide_border=true"/> </p>
 🚀 Featured Projects
 🌐 Portfolio Website
 Responsive personal portfolio
@@ -49,7 +49,8 @@ Mobile responsive
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark"/> </p>
 🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/your-username"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/![Uploading image.png…]()
+"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/your-username"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 💡 Quote
 
 “Code is not just syntax, it’s problem solving in motion.”
