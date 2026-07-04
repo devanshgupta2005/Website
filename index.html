@@ -10,6 +10,13 @@
 </head>
 
 <body>
+    <!-- Scroll Progress Bar -->
+    <div class="scroll-progress"></div>
+
+    <!-- Custom Cursor -->
+    <div class="cursor-dot"></div>
+    <div class="cursor-ring"></div>
+
     <!-- Navigation -->
     <nav>
         <div class="container">
@@ -36,8 +43,8 @@
         <div class="container">
             <div class="hero-content reveal">
                 <div class="hero-badge"><i class="fas fa-sparkles"></i> Available for premium freelance work</div>
-                <h1>Hi, I'm <span class="gradient-text">Devansh Gupta</span></h1>
-                <p class="tagline">Full Stack Developer | NCC | NSS | Freelancer</p>
+                <h1>Hi, I'm <span class="gradient-text" id="scramble-name">Devansh Gupta</span></h1>
+                <p class="tagline"><span id="typed-text"></span><span class="typing-cursor">|</span></p>
                 <div class="hero-buttons">
                     <a href="#projects" class="btn btn-primary">View Projects</a>
                     <a href="#contact" class="btn btn-secondary">Contact Me</a>
@@ -85,6 +92,25 @@
                                 <strong>Teamwork</strong>
                             </div>
                         </div>
+
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <span class="stat-number" data-target="3">0</span>
+                                <span class="stat-label">Leadership Roles</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" data-target="25">0</span>
+                                <span class="stat-label">Tech Skills</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" data-target="1">0</span>
+                                <span class="stat-label">Live Project</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" data-target="1">0</span>
+                                <span class="stat-label">Certification</span>
+                            </div>
+                        </div>
                     </div>
                     <div class="about-image">
                         <div class="image-shell">
@@ -117,12 +143,12 @@
                         </div>
                         <div class="progress-list">
                             <div class="progress-row">
-                                <div class="progress-meta"><span>AI & ML</span><span>75%</span></div>
-                                <div class="progress-bar"><span style="--bar-width: 75%"></span></div>
+                                <div class="progress-meta"><span>AI & ML</span><span>92%</span></div>
+                                <div class="progress-bar"><span style="--bar-width: 92%"></span></div>
                             </div>
                             <div class="progress-row">
-                                <div class="progress-meta"><span>Web Development</span><span>90%</span></div>
-                                <div class="progress-bar"><span style="--bar-width: 90%"></span></div>
+                                <div class="progress-meta"><span>Web Development</span><span>88%</span></div>
+                                <div class="progress-bar"><span style="--bar-width: 88%"></span></div>
                             </div>
                         </div>
                     </div>
